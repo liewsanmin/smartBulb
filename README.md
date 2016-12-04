@@ -1,1 +1,3 @@
-#Individual side project to build a classic smart light 
+#Smart light
+
+You can view the guide in my [blog post](http://liewsanmin.github.io/Smart-Light-Project/)
